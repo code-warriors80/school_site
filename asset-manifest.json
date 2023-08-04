@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/school_site/static/css/main.47af931b.css",
-    "main.js": "/school_site/static/js/main.827f7a26.js",
+    "main.js": "/school_site/static/js/main.5cd5c0bd.js",
     "static/media/schoolboys-lesson.jpg": "/school_site/static/media/schoolboys-lesson.eecdc56b86323518839e.jpg",
     "static/media/cute-kid-glasses-studio.jpg": "/school_site/static/media/cute-kid-glasses-studio.7f54e3706273e5ef823a.jpg",
     "static/media/african-girl-sitting-table-schoolgirls-read-book-during-break-children-sit-computer-science-class.jpg": "/school_site/static/media/african-girl-sitting-table-schoolgirls-read-book-during-break-children-sit-computer-science-class.7c7b1beb86a6e41203c1.jpg",
@@ -48,10 +48,10 @@
     "static/media/revicons.woff": "/school_site/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/school_site/index.html",
     "main.47af931b.css.map": "/school_site/static/css/main.47af931b.css.map",
-    "main.827f7a26.js.map": "/school_site/static/js/main.827f7a26.js.map"
+    "main.5cd5c0bd.js.map": "/school_site/static/js/main.5cd5c0bd.js.map"
   },
   "entrypoints": [
     "static/css/main.47af931b.css",
-    "static/js/main.827f7a26.js"
+    "static/js/main.5cd5c0bd.js"
   ]
 }
