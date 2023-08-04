@@ -16,7 +16,7 @@ import Contact from './Pages/Contact';
 function App() {
   return (
     <div className="App">
-        <BrowserRouter>
+        <BrowserRouter basename='/school_site'>
           <Header className='heading'/>
           <Routes>
             <Route path='/' element={<Home />}></Route>
