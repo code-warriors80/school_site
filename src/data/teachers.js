@@ -1,30 +1,25 @@
-import teacher1 from '../image/teachers/teacher_01.jpg'
-import teacher2 from '../image/teachers/teacher_02.jpg'
-import teacher3 from '../image/teachers/teacher_03.jpg'
-import teacher4 from '../image/teachers/teacher_04.jpg'
-
 export const teachers = [
                {
                               id: 1,
-                              Image: teacher1,
+                              Image: 'https://labartisan.net/demo/kidsacademy/images/teachers/teacher_12.jpg',
                               name: 'Alex Kshe',
                               subject: 'Math'
                },
                {
                               id: 2,
-                              Image: teacher2,
+                              Image: 'https://labartisan.net/demo/kidsacademy/images/teachers/teacher_14.jpg',
                               name: 'Alex Ude',
                               subject: 'English'
                },
                {
                               id: 3,
-                              Image: teacher3,
+                              Image: 'https://labartisan.net/demo/kidsacademy/images/teachers/teacher_13.jpg',
                               name: 'Healex Jhonson',
                               subject: 'Art'
                },
                {
                               id: 2,
-                              Image: teacher4,
+                              Image: 'https://labartisan.net/demo/kidsacademy/images/teachers/teacher_10.jpg',
                               name: 'Gray Jhonson',
                               subject: 'CCA'
                },

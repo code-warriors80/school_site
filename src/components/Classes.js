@@ -2,11 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Zoom from 'react-reveal/Zoom';
 
-// IMAGE
-import class1 from '../image/class/class_01.jpg'
-import class2 from '../image/class/class_02.jpg'
-import class3 from '../image/class/class_03.jpg'
-
 const Classes = () => {
   return (
                <section className='py-32 px-5'>
@@ -16,7 +11,7 @@ const Classes = () => {
                     <div className='lg:w-[75%] lg:flex items-center justify-between mx-auto gap-10 mt-16'>
                     <Zoom left>
                         <div className='shadow-lg mb-10 lg:mb-0'>
-                        <img src={class1} alt='' className='w-full'/>
+                        <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_01.jpg' alt='' className='w-full'/>
                                 <div className='flex items-center justify-stretch text-white gap-1'>
                                       <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                           <p>Class Size</p>
@@ -43,7 +38,7 @@ const Classes = () => {
                         <Zoom>
 
                         <div className='shadow-lg mb-10 lg:mb-0'>
-                              <img src={class2} alt='' className='w-full'/>
+                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_02.jpg' alt='' className='w-full'/>
                                 <div className='flex items-center justify-stretch text-white gap-1'>
                                       <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                           <p>Class Size</p>
@@ -71,7 +66,7 @@ const Classes = () => {
                         <Zoom right>
 
                         <div className='shadow-lg mb-10 lg:mb-0'>
-                        <img src={class3} alt='' className='w-full'/>
+                        <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_03.jpg' alt='' className='w-full'/>
                                 <div className='flex items-center justify-stretch text-white gap-1'>
                                       <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                           <p>Class Size</p>

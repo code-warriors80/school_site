@@ -1,39 +1,32 @@
-import class1 from '../image/gallery/gallery_11.jpg'
-import class2 from '../image/gallery/gallery_12.jpg'
-import class3 from '../image/gallery/gallery_13.jpg'
-import class4 from '../image/gallery/gallery_14.jpg'
-import class5 from '../image/gallery/gallery_15.jpg'
-import class6 from '../image/gallery/gallery_16.jpg'
-
 export const gallery = [
                {
                               id: 1,
-                              image: class1,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_11.jpg',
                               category: ['class']
                },
                {
                               id: 2,
-                              image: class2,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_12.jpg',
                               category: ['class']
                },
                {
                               id: 3,
-                              image: class3,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_13.jpg',
                               category: ['class']
                },
                {
                               id: 4,
-                              image: class4,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_14.jpg',
                               category: ['class']
                },
                {
                               id: 5,
-                              image: class5,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_15.jpg',
                               category: ['class']
                },
                {
                               id: 6,
-                              image: class6,
+                              image: 'https://labartisan.net/demo/kidsacademy/images/gallery/gallery_16.jpg',
                               category: ['class', 'event']
                },
 ]

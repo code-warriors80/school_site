@@ -1,11 +1,7 @@
-import class1 from '../image/class_01.jpg'
-import class2 from '../image/class_02.jpg'
-import class3 from '../image/class_03.jpg'
-
 export const event = [
                {
                               id: 1,
-                              img: class1,
+                              img: 'https://labartisan.net/demo/kidsacademy/images/event/event_01.jpg',
                               date: `25`,
                               month: 'March',
                               class: 'Imagination Classes',
@@ -15,7 +11,7 @@ export const event = [
                },
                {
                               id: 2,
-                              img: class2,
+                              img: 'https://labartisan.net/demo/kidsacademy/images/event/event_02.jpg',
                               date: `15`,
                               month: 'August',
                               class: 'Imagination Classes',
@@ -25,7 +21,7 @@ export const event = [
                },
                {
                               id: 3,
-                              img: class3,
+                              img: 'https://labartisan.net/demo/kidsacademy/images/event/event_03.jpg',
                               date: `5`,
                               month: 'April',
                               class: 'Imagination Classes',

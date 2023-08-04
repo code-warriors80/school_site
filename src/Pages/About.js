@@ -4,14 +4,6 @@ import { Zoom } from 'react-reveal'
 import { Link } from 'react-router-dom'
 
 
-// IMAGES
-import boys from '../image/feature.jpg'
-import teacher1 from '../image/teachers/teacher_01.jpg'
-import teacher2 from '../image/teachers/teacher_02.jpg'
-import teacher3 from '../image/teachers/teacher_03.jpg'
-import teacher4 from '../image/teachers/teacher_04.jpg'
-
-
 // COMPONENTS
 import Facility2 from '../components/Facility2'
 import About2 from '../components/About2'
@@ -66,7 +58,7 @@ const About = () => {
                                                             </div>
                                                       </Zoom>
 
-                                                      <img src={boys} alt='' className='py-10'/>
+                                                      <img src='https://labartisan.net/demo/kidsacademy/images/feature.jpg' alt='' className='py-10'/>
 
                                                       <Zoom right>
                                                             <div>
@@ -108,7 +100,7 @@ const About = () => {
                                                 <Zoom left>
                                                 <div className='lg:w-[45%] bg-link-colol-4 lg:my-0 my-5 '>
                                                       <div className='flex '>
-                                                          <img src={teacher1} alt='' className='lg:w-[50%] w-[50%]'/>
+                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_01.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
                                                           <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Broklyn Doel <span className='text-[15px]'>Sains Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -127,7 +119,7 @@ const About = () => {
                                                 <Zoom right>
                                                 <div className='lg:w-[45%] bg-link-colol-1 lg:my-0 my-5'>
                                                       <div className='flex '>
-                                                          <img src={teacher2} alt='' className='lg:w-[50%] w-[50%]'/>
+                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_02.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
                                                             <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Alex Jhonson <span className='text-[15px]'>Art Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -146,7 +138,7 @@ const About = () => {
                                                 <Zoom left>
                                                 <div className='lg:w-[45%] bg-link-colol-3 lg:my-0 my-5'>
                                                       <div className='flex '>
-                                                            <img src={teacher3} alt='' className='lg:w-[50%] w-[50%]'/>
+                                                            <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_03.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
                                                             <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Robot Jhonson <span className='text-[15px]'>Math Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -165,7 +157,7 @@ const About = () => {
                                                 <Zoom right>
                                                 <div className='lg:w-[45%] bg-link-colol-5 lg:my-0 my-5'>
                                                   <div className='flex '>
-                                                      <img src={teacher4} alt='' className='lg:w-[50%] w-[50%]'/>
+                                                      <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_04.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
                                                       <div className='p-5'>
                                                           <h1 className='lg:text-[25px] text-[20px] font-bold'>Janaton Doe <span className='text-[15px]'>English Teacher</span></h1>
                                                                   <div className='flex gap-4 py-3'>

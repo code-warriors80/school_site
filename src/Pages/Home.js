@@ -13,16 +13,12 @@ import Facility from '../components/Facility'
 import NewsLetter from '../components/News-Letter'
 
 
-// IMAGES
-import abt from '../image/about-3.png'
-
-
 const Home = () => {
   return (
     <div>
                <Landing />
                <section className='lg:flex lg:items-center lg:justify-around py-32 px-5 lg:px-20'>
-                        <Zoom left><img src={abt} alt='' className='lg:w-[40%] mb-20'/></Zoom>
+                        <Zoom left><img src='https://labartisan.net/demo/kidsacademy/images/about/about-3.png' alt='' className='lg:w-[40%] mb-20'/></Zoom>
                         <Zoom right>
                               <div className=' lg:w-[35%]'>
                                              <h1 className='text-[40px] font-extrabold mb-5 text-link-colol-4'>About School Website</h1>

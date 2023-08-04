@@ -2,23 +2,12 @@ import React from 'react'
 import { Zoom } from 'react-reveal'
 
 
-// CLASS
-import class1 from '../image/class/class_01.jpg'
-import class2 from '../image/class/class_02.jpg'
-import class3 from '../image/class/class_03.jpg'
-import class4 from '../image/class/class_04.jpg'
-import class5 from '../image/class/class_05.jpg'
-import class6 from '../image/class/class_06.jpg'
-import class7 from '../image/class/class_07.jpg'
-import class8 from '../image/class/class_08.jpg'
-import class9 from '../image/class/class_09.jpg'
-
 const Classes1 = () => {
   return (
                <div className='lg:w-[75%] lg:flex items-center justify-between flex-wrap mx-auto gap-10 lg:mt-64 mt-44 mb-16 px-5'>
                               <Zoom left>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:lg:w-[30%]'>
-                                             <img src={class1} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_01.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -44,7 +33,7 @@ const Classes1 = () => {
 
                               <Zoom>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:lg:w-[30%]'>
-                                             <img src={class2} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_02.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -70,7 +59,7 @@ const Classes1 = () => {
 
                               <Zoom right>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class3} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_03.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -96,7 +85,7 @@ const Classes1 = () => {
 
                               <Zoom left>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class4} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_04.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -122,7 +111,7 @@ const Classes1 = () => {
 
                               <Zoom>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class5} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_05.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -148,7 +137,7 @@ const Classes1 = () => {
 
                               <Zoom right>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class6} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_06.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -174,7 +163,7 @@ const Classes1 = () => {
 
                               <Zoom left>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class7} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_07.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -200,7 +189,7 @@ const Classes1 = () => {
 
                               <Zoom>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class8} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_08.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
@@ -226,7 +215,7 @@ const Classes1 = () => {
 
                               <Zoom right>
                               <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
-                                             <img src={class9} alt='' className='w-full'/>
+                                             <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_09.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
                                                             <p>Class Size</p>
