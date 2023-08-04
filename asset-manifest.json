@@ -1,40 +1,18 @@
 {
   "files": {
-    "main.css": "/school_site/static/css/main.47af931b.css",
-    "main.js": "/school_site/static/js/main.5cd5c0bd.js",
-    "static/media/schoolboys-lesson.jpg": "/school_site/static/media/schoolboys-lesson.eecdc56b86323518839e.jpg",
-    "static/media/cute-kid-glasses-studio.jpg": "/school_site/static/media/cute-kid-glasses-studio.7f54e3706273e5ef823a.jpg",
-    "static/media/african-girl-sitting-table-schoolgirls-read-book-during-break-children-sit-computer-science-class.jpg": "/school_site/static/media/african-girl-sitting-table-schoolgirls-read-book-during-break-children-sit-computer-science-class.7c7b1beb86a6e41203c1.jpg",
+    "main.css": "/school_site/static/css/main.4b274fe9.css",
+    "main.js": "/school_site/static/js/main.922127f1.js",
     "static/media/teacher-bg.jpg": "/school_site/static/media/teacher-bg.ae12d5e71c0b7052fff9.jpg",
     "static/media/about-bg.jpg": "/school_site/static/media/about-bg.d7ae51ded25854a4788f.jpg",
     "static/media/testimonial-bg.jpg": "/school_site/static/media/testimonial-bg.a18c82be162c25f72d30.jpg",
-    "static/media/gallery_11.jpg": "/school_site/static/media/gallery_11.ee29c1a17de0d58d0645.jpg",
     "static/media/gallery_15.jpg": "/school_site/static/media/gallery_15.67ec5a33ef3df0b806b0.jpg",
     "static/media/gallery_14.jpg": "/school_site/static/media/gallery_14.a815c868e420fc49c727.jpg",
-    "static/media/about-3.png": "/school_site/static/media/about-3.1412cdf45aa9c63c94a8.png",
-    "static/media/class_09.jpg": "/school_site/static/media/class_09.3b8e914a3ff76eda3a66.jpg",
-    "static/media/class_07.jpg": "/school_site/static/media/class_07.337434d0a41f93fe12bd.jpg",
-    "static/media/gallery_12.jpg": "/school_site/static/media/gallery_12.3d305d081688e91cb5ab.jpg",
-    "static/media/class_06.jpg": "/school_site/static/media/class_06.ef682fb422805a5bd994.jpg",
-    "static/media/feature.jpg": "/school_site/static/media/feature.758296063fad12e31098.jpg",
     "static/media/teacher-bg-3.jpg": "/school_site/static/media/teacher-bg-3.49039fe2b1b7a02742c1.jpg",
-    "static/media/class_08.jpg": "/school_site/static/media/class_08.5a31465589a9878dd921.jpg",
-    "static/media/class_04.jpg": "/school_site/static/media/class_04.7788165d9cb969767242.jpg",
-    "static/media/gallery_13.jpg": "/school_site/static/media/gallery_13.911d80e88b10f540441b.jpg",
-    "static/media/class_01.jpg": "/school_site/static/media/class_01.668bd193e7bed0898054.jpg",
-    "static/media/gallery_16.jpg": "/school_site/static/media/gallery_16.6b912cc00df51b56597a.jpg",
-    "static/media/class_05.jpg": "/school_site/static/media/class_05.28bcfbc69677a00e3227.jpg",
-    "static/media/class_03.jpg": "/school_site/static/media/class_03.e4959416573036668a3a.jpg",
     "static/media/class_02.jpg": "/school_site/static/media/class_02.3d668783f6af079c9053.jpg",
     "static/media/footer-bg.jpg": "/school_site/static/media/footer-bg.cf77e027fd8360e4dc19.jpg",
     "static/media/page-header-bg.jpg": "/school_site/static/media/page-header-bg.0da3ff150b81342dfa35.jpg",
-    "static/media/teacher_04.jpg": "/school_site/static/media/teacher_04.b14b6d4a0fb5b99b85dc.jpg",
-    "static/media/teacher_01.jpg": "/school_site/static/media/teacher_01.31715f4353567dcb7622.jpg",
-    "static/media/teacher_03.jpg": "/school_site/static/media/teacher_03.2b8ca34ab052bff09fc4.jpg",
-    "static/media/teacher_02.jpg": "/school_site/static/media/teacher_02.16d0f2e99295d88680f6.jpg",
     "static/media/icons8-menu-94.png": "/school_site/static/media/icons8-menu-94.a36d174c31f74c5c4bfb.png",
     "static/media/gallery_06.jpg": "/school_site/static/media/gallery_06.ed8c2bcea9ff17dc0cea.jpg",
-    "static/media/testimonial_01.jpg": "/school_site/static/media/testimonial_01.220afc4b3b7f6aefff60.jpg",
     "static/media/icons8-close-94.png": "/school_site/static/media/icons8-close-94.193593e8a806a3dbfd14.png",
     "static/media/gallery_03.jpg": "/school_site/static/media/gallery_03.d0915dad9a29feaa3fed.jpg",
     "static/media/gallery_04.jpg": "/school_site/static/media/gallery_04.b41c33ea7c75bb1b9142.jpg",
@@ -47,11 +25,11 @@
     "static/media/gallery_01.jpg": "/school_site/static/media/gallery_01.5b6910e32b320f10286e.jpg",
     "static/media/revicons.woff": "/school_site/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/school_site/index.html",
-    "main.47af931b.css.map": "/school_site/static/css/main.47af931b.css.map",
-    "main.5cd5c0bd.js.map": "/school_site/static/js/main.5cd5c0bd.js.map"
+    "main.4b274fe9.css.map": "/school_site/static/css/main.4b274fe9.css.map",
+    "main.922127f1.js.map": "/school_site/static/js/main.922127f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.47af931b.css",
-    "static/js/main.5cd5c0bd.js"
+    "static/css/main.4b274fe9.css",
+    "static/js/main.922127f1.js"
   ]
 }
