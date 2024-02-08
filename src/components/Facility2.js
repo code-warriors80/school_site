@@ -7,7 +7,7 @@ import { facilities } from '../data/facilities';
 const Facility2 = () => {
   return (
     <div>
-               <div className='w-[75%] lg:flex items-center justify-between mx-auto py-16 mt-36'>
+               <div className='w-[75%] mx-auto grid md:grid-cols-2 lg:grid-cols-4 mt-44 py-16'>
                {facilities && facilities.map((facility) => (
                         <Fade left>
                             <div className='mb-5'>

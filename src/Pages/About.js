@@ -29,62 +29,61 @@ const About = () => {
                <section className='py-20'>
                                              <h1 className='text-[40px] font-[800] mb-5 text-link-colol-4 text-center'>Why Choose KidsAcademy</h1>
                                              <p className='text-center font-semibold text-black w-[85%] lg:w-[40%] text-[16px] mx-auto mb-20'>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
-                                             <div className='lg:flex items-center justify-between w-[75%] mx-auto'>
+                                             <div className='grid md:grid-cols-3 items-center lg:w-[85%] xl:w-[75%] mx-auto'>
                                                       <Zoom left>
                                                             <div>
-                                                                           <div className='mb-8 flex items-center flex-wrap-reverse'>
+                                                                           <div className='mb-8'>
+                                                                              <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
                                                                                           <div className='mr-5'>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-2'>Expert Teachers</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          </div>                   
                                                                            </div>
 
-                                                                           <div className='mb-8 flex items-center flex-wrap-reverse'>
+                                                                           <div className='mb-8'>
+                                                                           <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
                                                                                           <div className='mr-5'>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-3'>Multimedia Class</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          </div>             
                                                                            </div>
 
-                                                                           <div className='mb-8 flex items-center flex-wrap-reverse'>
+                                                                           <div className='mb-8'>
+                                                                              <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
                                                                                           <div className='mr-5'>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-5'>Music And Art Class</h2>
                                                                                                          <p className=' text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          </div>           
                                                                            </div>
                                                             </div>
                                                       </Zoom>
 
-                                                      <img src='https://labartisan.net/demo/kidsacademy/images/feature.jpg' alt='' className='py-10'/>
-
+                                                      <img src='https://labartisan.net/demo/kidsacademy/images/feature.jpg' alt='' className='py-10 mx-auto'/>
                                                       <Zoom right>
                                                             <div>
-                                                                           <div className='mb-8 flex items-center flex-wrap'>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='ml-5'>
+                                                                           <div className='mb-8'>
+                                                                              <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          <div className='mr-5'>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-1'>Expert Teachers</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
+                                                                                          </div>                   
                                                                            </div>
 
-                                                                           <div className='mb-8 flex items-center flex-wrap'>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='ml-5'>
-                                                                                                         <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-4'>Multimedia Class</h2>
+                                                                           <div className='mb-8'>
+                                                                           <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          <div className='mr-5'>
+                                                                                                         <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-3'>Multimedia Class</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
+                                                                                          </div>             
                                                                            </div>
 
-                                                                           <div className='mb-8 flex items-center flex-wrap'>
-                                                                                          <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='ml-5'>
+                                                                           <div className='mb-8'>
+                                                                              <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
+                                                                                          <div className='mr-5'>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-code_war-color'>Music And Art Class</h2>
-                                                                                                         <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
-                                                                                          </div>
-                                                                           </div>  
+                                                                                                         <p className=' text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
+                                                                                          </div>           
+                                                                           </div>
                                                             </div>
                                                       </Zoom>
                                              </div>

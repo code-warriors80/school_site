@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 
 const Landing = () => {
   return (
-               <Carousel showArrows={false} infiniteLoop={true} interval={2} className='h-[100vh] carosel'>
+               <Carousel showArrows={true} infiniteLoop={true} interval={2} className='h-[100vh] carosel'>
                           <div className='h-[100vh] land-1'>
                                         <div className='landing_trans w-full h-full flex items-center justify-center'>
                                                       <motion.div initial={{opacity: 0}} animate={{opacity: 2}} transition={{delay: 1.5, duration: 5}} className=''>

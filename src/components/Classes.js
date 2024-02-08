@@ -8,7 +8,7 @@ const Classes = () => {
                     <h1 className='text-[40px] font-extrabold mb-5 text-link-colol-4 text-center'>Our Popular Classes</h1>
                     <p className='text-center font-semibold text-black w-[85%] lg:w-[40%] text-[16px] mx-auto'>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
 
-                    <div className='lg:w-[75%] lg:flex items-center justify-between mx-auto gap-10 mt-16'>
+                    <div className='lg:w-[75%] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center justify-between mx-auto gap-10 mt-16'>
                     <Zoom left>
                         <div className='shadow-lg mb-10 lg:mb-0'>
                         <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_01.jpg' alt='' className='w-full'/>

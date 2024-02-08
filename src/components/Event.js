@@ -12,7 +12,7 @@ const Event = () => {
                <h1 className='text-[40px] font-extrabold mb-5 text-link-colol-4 text-center'>Don't Miss Our Event</h1>
                <p className='text-center font-semibold text-black w-[85%] lg:w-[40%] text-[16px] mx-auto'>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
 
-               <div className='lg:flex justify-between lg:w-[75%] mx-auto gap-10 mt-16'>
+               <div className='lg:w-[75%] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto gap-10 mt-16'>
                       <Zoom left>
                               {event && event.map((events) => (
                                       <div className='border-2 border-gray-100 border-solid mb-10 lg:mb-0 hover:shadow-lg'>
