@@ -4,9 +4,9 @@ import { Zoom } from 'react-reveal'
 
 const Classes1 = () => {
   return (
-               <div className='lg:w-[75%] lg:flex items-center justify-between flex-wrap mx-auto gap-10 lg:mt-64 mt-44 mb-16 px-5'>
+               <div className='lg:w-[85%] xl:w-[75%] grid md:grid-cols-2 lg:grid-cols-3 mx-auto gap-10 lg:mt-64 mt-44 mb-16 px-5'>
                               <Zoom left>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_01.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -32,7 +32,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_02.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -58,7 +58,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom right>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_03.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -84,7 +84,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom left>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_04.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -110,7 +110,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_05.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -136,7 +136,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom right>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_06.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -162,7 +162,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom left>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_07.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -188,7 +188,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_08.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>
@@ -214,7 +214,7 @@ const Classes1 = () => {
                               </Zoom>
 
                               <Zoom right>
-                              <div className='shadow-lg mb-10 lg:mb-0 lg:w-[30%]'>
+                              <div className='shadow-lg mb-10 lg:mb-0'>
                                              <img src='https://labartisan.net/demo/kidsacademy/images/classes/class_09.jpg' alt='' className='w-full'/>
                                              <div className='flex items-center justify-stretch text-white gap-1'>
                                              <div className='bg-link-colol-4 w-[33%] text-center py-2 font-semibold'>

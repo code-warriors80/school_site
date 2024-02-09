@@ -19,10 +19,10 @@ const Contact = () => {
                               </div>
                </section>
                
-               <div className="container mx-auto flex items-center flex-wrap justify-between py-16  mt-48 w-[75%]">
+               <div className="container mx-auto grid lg:grid-cols-2 py-16  mt-48 w-[75%]">
                    {/* First Section: Contact Information */}
                    <Zoom left>
-                            <div className="w-full md:w-4/12 p-4">
+                            <div className="p-4 lg:w-[70%]">
                                         <div className='flex items-start gap-7 py-5'>
                                                         <span className='flex gap-3 items-center text-3xl font-semibold mt-4 text-link-colol-2'><FiMapPin className='' /></span>
                                                         <div>
@@ -54,7 +54,7 @@ const Contact = () => {
    
                    {/* Second Section */}
                    <Zoom right>
-                            <div className="w-[100%] lg:w-[60%] p-4">
+                            <div className=" p-4">
                                     <form className="mt-4">
                                                 <div className='flex gap-4 w-full'>
 
