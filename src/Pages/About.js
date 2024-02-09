@@ -29,12 +29,12 @@ const About = () => {
                <section className='py-20'>
                                              <h1 className='text-[40px] font-[800] mb-5 text-link-colol-4 text-center'>Why Choose KidsAcademy</h1>
                                              <p className='text-center font-semibold text-black w-[85%] lg:w-[40%] text-[16px] mx-auto mb-20'>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>
-                                             <div className='grid md:grid-cols-3 items-center lg:w-[85%] xl:w-[75%] mx-auto'>
+                                             <div className='grid md:grid-cols-3 items-center lg:w-[85%] xl:w-[75%] mx-auto px-5 lg:px-0'>
                                                       <Zoom left>
                                                             <div>
                                                                            <div className='mb-8'>
                                                                               <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-2'>Expert Teachers</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>                   
@@ -42,7 +42,7 @@ const About = () => {
 
                                                                            <div className='mb-8'>
                                                                            <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-3'>Multimedia Class</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>             
@@ -50,7 +50,7 @@ const About = () => {
 
                                                                            <div className='mb-8'>
                                                                               <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-5'>Music And Art Class</h2>
                                                                                                          <p className=' text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>           
@@ -63,7 +63,7 @@ const About = () => {
                                                             <div>
                                                                            <div className='mb-8'>
                                                                               <img src='https://cdn-icons-png.flaticon.com/128/1048/1048949.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-1'>Expert Teachers</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>                   
@@ -71,7 +71,7 @@ const About = () => {
 
                                                                            <div className='mb-8'>
                                                                            <img src='https://cdn-icons-png.flaticon.com/128/3518/3518521.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-link-colol-3'>Multimedia Class</h2>
                                                                                                          <p className='text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>             
@@ -79,7 +79,7 @@ const About = () => {
 
                                                                            <div className='mb-8'>
                                                                               <img src='https://cdn-icons-png.flaticon.com/128/3991/3991233.png'  alt='' className='mx-auto mb-3'/>
-                                                                                          <div className='mr-5'>
+                                                                                          <div className=''>
                                                                                                          <h2 className='text-center text-3xl font-extrabold mb-3 text-code_war-color'>Music And Art Class</h2>
                                                                                                          <p className=' text-center font-bold text-text-color'>Distinctively enhance empowered and alignments without leveraged architectures professionly.</p>
                                                                                           </div>           
