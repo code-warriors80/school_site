@@ -94,12 +94,12 @@ const About = () => {
                                              <h1 className='text-[40px] font-[800] mb-5 text-white text-center'>Meet Our Teachers</h1>
                                              <p className='text-center font-semibold text-white w-[85%] lg:w-[40%] text-[16px] mx-auto mb-20'>Rapidiously expedite granular imperatives before economically sound web services. Credibly actualize pandemic strategic themeplatform.</p>         
                               
-                                             <div className='w-full lg:w-[75%] p-5 mx-auto lg:flex lg:items-center lg:justify-center lg:flex-wrap gap-5 text-white'>
+                                             <div className='w-full lg:w-[85%] xl:w-[75%] p-5 mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-5 text-white'>
                                                 
                                                 <Zoom left>
-                                                <div className='lg:w-[45%] bg-link-colol-4 lg:my-0 my-5 '>
-                                                      <div className='flex '>
-                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_01.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
+                                                <div className=' bg-link-colol-4 lg:my-0 my-5 '>
+                                                      <div className=''>
+                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_01.jpg' alt='' className='w-full object-cover h-[250px]'/>
                                                           <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Broklyn Doel <span className='text-[15px]'>Sains Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -108,7 +108,7 @@ const About = () => {
                                                                         <Link><BsTwitter /></Link>
                                                                         <Link><BsLinkedin /></Link>
                                                                 </div>
-                                                                <p className='py-3 lg:text-[18px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
+                                                                <p className='py-3 lg:text-[15px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
                                                                 <Link>View Profile</Link>
                                                             </div>
                                                       </div>
@@ -116,9 +116,9 @@ const About = () => {
                                                 </Zoom>
 
                                                 <Zoom right>
-                                                <div className='lg:w-[45%] bg-link-colol-1 lg:my-0 my-5'>
-                                                      <div className='flex '>
-                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_02.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
+                                                <div className=' bg-link-colol-1 lg:my-0 my-5'>
+                                                      <div className=''>
+                                                          <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_02.jpg' alt='' className='w-full object-cover h-[250px]'/>
                                                             <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Alex Jhonson <span className='text-[15px]'>Art Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -127,7 +127,7 @@ const About = () => {
                                                                         <Link><BsTwitter /></Link>
                                                                         <Link><BsLinkedin /></Link>
                                                                 </div>
-                                                                <p className='py-3 lg:text-[18px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
+                                                                <p className='py-3 lg:text-[15px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
                                                                 <Link>View Profile</Link>
                                                             </div>
                                                       </div>
@@ -135,9 +135,9 @@ const About = () => {
                                                 </Zoom>
 
                                                 <Zoom left>
-                                                <div className='lg:w-[45%] bg-link-colol-3 lg:my-0 my-5'>
-                                                      <div className='flex '>
-                                                            <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_03.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
+                                                <div className=' bg-link-colol-3 lg:my-0 my-5 h-fit'>
+                                                      <div className=''>
+                                                            <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_03.jpg' alt='' className='w-full object-cover h-[250px]'/>
                                                             <div className='p-5'>
                                                                 <h1 className='lg:text-[25px] text-[20px] font-bold'>Robot Jhonson <span className='text-[15px]'>Math Teacher</span></h1>
                                                                 <div className='flex gap-4 py-3'>
@@ -146,7 +146,7 @@ const About = () => {
                                                                         <Link><BsTwitter /></Link>
                                                                         <Link><BsLinkedin /></Link>
                                                                 </div>
-                                                                <p className='py-3 lg:text-[18px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
+                                                                <p className='py-3 lg:text-[15px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
                                                                 <Link>View Profile</Link>
                                                             </div>
                                                       </div>
@@ -154,9 +154,9 @@ const About = () => {
                                                 </Zoom>
 
                                                 <Zoom right>
-                                                <div className='lg:w-[45%] bg-link-colol-5 lg:my-0 my-5'>
-                                                  <div className='flex '>
-                                                      <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_04.jpg' alt='' className='lg:w-[50%] w-[50%]'/>
+                                                <div className=' bg-link-colol-5 lg:my-0 my-5 h-fit'>
+                                                  <div className=''>
+                                                      <img src='https://labartisan.net/demo/kidsacademy/images/teachers/teacher_04.jpg' alt='' className='w-full object-cover h-[250px]'/>
                                                       <div className='p-5'>
                                                           <h1 className='lg:text-[25px] text-[20px] font-bold'>Janaton Doe <span className='text-[15px]'>English Teacher</span></h1>
                                                                   <div className='flex gap-4 py-3'>
@@ -165,7 +165,7 @@ const About = () => {
                                                                         <Link><BsTwitter /></Link>
                                                                         <Link><BsLinkedin /></Link>
                                                                 </div>
-                                                          <p className='py-3 lg:text-[18px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
+                                                          <p className='py-3 lg:text-[15px] text-[10px] font-light'>Distinctively initiate and sustainable synergy vaan tactical opportunities. awesome theme ollaboratively.</p>
                                                           <Link>View Profile</Link>
                                                       </div>
                                                       </div>
