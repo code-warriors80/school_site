@@ -3,7 +3,7 @@ import { Zoom } from 'react-reveal'
 import { Link } from 'react-router-dom'
 
 // COMPONENTS
-import Landing from '../components/Landing'
+import Landing from '../components/Carousel'
 import Review from '../components/Review'
 import Classes from '../components/Classes'
 import Teachers from '../components/Teachers'
